@@ -1,6 +1,3 @@
 {
-  "framework": "vite",
-  "rewrites": [
-    { "source": "/((?!assets/|favicon.ico|.*\\..*).*)", "destination": "/index.html" }
-  ]
+  "framework": "vite"
 }
